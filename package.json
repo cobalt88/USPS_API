@@ -1,0 +1,11 @@
+{
+  "name": "usps_api",
+  "version": "1.0.0",
+  "description": "A test API for zip code and address verification using the USPS address database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
